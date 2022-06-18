@@ -15,6 +15,8 @@ Los CONSTRAINT que se van a ver son los siguiente:
 - **NOT NULL**: Al momento de insertar los valores, este campo no puede faltar.
 - **DEFAULT**: El campo tiene por defecto un valor en especifico. Dicho valor se declara al momento de crear la tabla.
 
+Se agregó [Ejemplo](https://github.com/BarrigueteHector/Bases-de-Datos-CONSTRAINT/blob/main/ejemplo.sql) en donde se ve como utilizar los **CONSTRAINT**, tanto al momento de crear la tabla, como utilizando **ALTER** (parte que no fue revisada en su repositorio para que todo se viera en este).
+
 NOTAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 **NOTA #1**: Los repositorios **Bases de Datos** están hechos con base en el curso de Bases de Datos de la Facultad de Ingeniería de la UNAM. 
